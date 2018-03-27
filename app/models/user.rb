@@ -27,7 +27,7 @@ class User < ApplicationRecord
   end
 
   def most_expensive_ticket_bought_between(date_1, date_2)
-    my_user_tickets = self.users_tickets
+    #my_user_tickets = self.users_tickets
     my_tickets = self.tickets
     max_price = 0
     my_ticket
