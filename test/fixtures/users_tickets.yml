@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  time: 2018-03-27 13:50:50
+  paid: false
+  User: one
+  Ticket: one
+
+two:
+  time: 2018-03-27 13:50:50
+  paid: false
+  User: two
+  Ticket: two
